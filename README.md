@@ -31,10 +31,7 @@ This is a creative and interactive website that features a Fanta can animation. 
 - The animation creates a cool effect, making the website more interactive and fun.
 
 ## Live Demo
-[Click here to view the live demo](#) (Add the actual live link here if hosted)
-
-## Screenshots
-(Add relevant screenshots here to showcase the animation)
+https://luckygole.github.io/Fanta-can-animation-/[Click here to view the live demo](#) 
 
 ## License
 This project is open-source and free to use. Feel free to modify and enhance it!
